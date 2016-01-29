@@ -24,8 +24,14 @@ alguno de nuestros eventos.
 Dudas? Preguntas? Puedes localizarnos en las redes sociales o buscarnos en el
 canal de slack de Chilango Rails.
 
-Para inscribirte al chat: http://chat.chilangorails.com
-Twitter: http://www.twitter.com/chilangorails
-Facebook: http://www.facebook.com/chilangorails
+Para inscribirte al chat:
+
+* [chat.chilangorails.com](http://chat.chilangorails.com)
+
+Redes sociales:
+
+* [Twitter](http://www.twitter.com/chilangorails)
+* [Facebook](http://www.facebook.com/chilangorails)
+* [Meetup](http://www.meetup.com/Chilango-Rails/)
 
 
