@@ -10,6 +10,10 @@ simplemente abre un issue en este repo con el título de la plática.
 En la descripción cuentanos un poco de lo que se trata y menciona que tu mismo
 quieres ser el ponente.
 
+Recuerda que el tiempo estándar de una plática en nuestros eventos es de 7 minutos
+pero si crees que tu tema necesita más que eso, específicalo también en la descripción. 
+Aún así no recomendamos que te pases de 15 minutos para poder meter variedad al evento.
+
 ## Proponer un tema
 
 Si quisieras escuchar sobre un tema en específico en Chilango Rails, puedes proponerlo.
