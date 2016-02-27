@@ -2,6 +2,11 @@
 
 En este repo llevamos las propuestas para las pláticas de Chilango Rails.
 
+## Indice  
+1. [Proponer una platica](#proponer-una-plática)
+2. [Proponer un tema](#proponer-un-tema)
+3. [Contacto con la comunidad](#proponer-una-platica)
+
 ## Proponer una plática.
 
 Si ya tienes una plática o tema listo que quieres compartir con la comunidad,
