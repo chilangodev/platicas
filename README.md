@@ -25,7 +25,7 @@ alguno de nuestros eventos.
 
 ## Contacto con la comunidad
 
-Dudas? Preguntas? Puedes localizarnos en las redes sociales o buscarnos en el
+¿Dudas? ¿Preguntas? Puedes localizarnos en las redes sociales o buscarnos en el
 canal de slack de Chilango Rails.
 
 Para inscribirte al chat:
