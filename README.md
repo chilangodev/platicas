@@ -10,7 +10,7 @@ En este repo llevamos las propuestas para las pláticas de Chilango Rails.
 ## Proponer una plática.
 
 Si ya tienes una plática o tema listo que quieres compartir con la comunidad,
-simplemente abre un issue en este repo con el título de la plática.
+simplemente abre un `issue` en este repo con el título de la plática.
 
 En la descripción cuentanos un poco de lo que se trata y menciona que tu mismo
 quieres ser el ponente.
