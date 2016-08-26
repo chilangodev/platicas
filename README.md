@@ -15,7 +15,7 @@ simplemente abre un `issue` en este repo con el título de la plática.
 En la descripción cuentanos un poco de lo que se trata y menciona que tu mismo
 quieres ser el ponente.
 
-Recuerda que el tiempo estándar de una plática en nuestros eventos es de 7 minutos
+Recuerda que el tiempo estándar de una plática en nuestros eventos es de 10 minutos
 pero si crees que tu tema necesita más que eso, específicalo también en la descripción.
 Aún así no recomendamos que te pases de 15 minutos para poder meter variedad al evento.
 
@@ -35,7 +35,7 @@ canal de slack de Chilango Dev.
 
 Para inscribirte al chat:
 
-* [chat.chilangorails.com](http://chat.chilangorails.com)
+* [chilangodev.slack.com](http://chilangodev.slack.com)
 
 Redes sociales:
 
